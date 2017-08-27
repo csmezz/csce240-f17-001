@@ -12,7 +12,7 @@ set laststatus=2  " makes the filename visible.
 set mouse=a       " this enables mouse support
 
 " Searching
-set ignorecase		" ignores case while searching
+set ignorecase    " ignores case while searching
 set incsearch     " searches while inputting characters
 set hlsearch      " highlights current search entry
 
