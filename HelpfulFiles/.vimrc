@@ -8,8 +8,8 @@ set lazyredraw    " prevents Vim from redrawing things automatically.
 set showmatch     " useful tool that highlights corresponding {[]}
 syntax on         " hopefully this is self-explanatory
 :imap jk <esc>    " remaps the escape key to the "jk" sequence.
-set laststatus=2 " makes the filename visible.
-set mouse=a				" this enables mouse support
+set laststatus=2  " makes the filename visible.
+set mouse=a       " this enables mouse support
 
 " Searching
 set ignorecase		" ignores case while searching
