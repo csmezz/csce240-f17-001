@@ -1,4 +1,4 @@
-# csce240-f17-003
+# csce240-f17-001
 CSCE 240 Fall 2017 for Students in Sections 001 and H01 with Dr. Buell.
 
 SI Website: TBA
