@@ -17,6 +17,6 @@ Things to note about this repository:
   - however, if there are any
 discrepancies they will be mentioned in this README.
 - The link to the Google C++ Style Guide and other helpful styling tips will be mentioned in the "Styling" section.
-- There will include a useful vimrc and more assistive scripts in the "Helpful Files" section.
+- There will include a useful vimrc and more assistive scripts in the "HelpfulFiles" section.
 
 If there are any questions or concerns, please contact one of the provided emails.
