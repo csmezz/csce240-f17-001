@@ -5,9 +5,9 @@ SI Website: TBA
 
 Dr. Buell's Website: https://cse.sc.edu/duncanbuell
 
-Judson's email: judsonj@email.sc.edu
+Judson's infor: judsonj@email.sc.edu    | https://sites.google.com/site/uscsupplementalinstruction/home/csce-240/001
 
-Chris's email: skeen@email.sc.edu
+Chris's info: skeen@email.sc.edu        | https://sites.google.com/site/uscsupplementalinstruction/home/csce-240/003
 
 This GitHub repository is designed to be a resource for coding examples, helpful information regarding homeworks, 
 and other information that can be gathered to make more sense of C++ and the software engineering process.
