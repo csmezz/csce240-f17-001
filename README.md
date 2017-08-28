@@ -5,7 +5,7 @@ SI Website: TBA
 
 Dr. Buell's Website: https://cse.sc.edu/duncanbuell
 
-Judson's infor: judsonj@email.sc.edu    | https://sites.google.com/site/uscsupplementalinstruction/home/csce-240/001
+Judson's info: judsonj@email.sc.edu    | https://sites.google.com/site/uscsupplementalinstruction/home/csce-240/001
 
 Chris's info: skeen@email.sc.edu        | https://sites.google.com/site/uscsupplementalinstruction/home/csce-240/003
 
