@@ -1,0 +1,12 @@
+# The line of code that allows for you to not have to edit the 
+# ./zdExecuteScript each time; obsoletes the "./" for scripts to an extent
+export PATH=$PATH:/Users/$USERNAME/bin:.
+
+# How to change your "PS1" (The tool that changes 
+# Dr. Buell's terminal to "dab: "
+https://www.cyberciti.biz/tips/howto-linux-unix-bash-shell-setup-prompt.html
+
+# How to alias commands
+alias <aliasname>="command"
+# For example: (removes C++ and Java object files)
+alias clean="rm *.o *.class"
