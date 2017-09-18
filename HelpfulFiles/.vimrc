@@ -19,6 +19,7 @@ set hlsearch      " highlights current search entry
 " Styling for Code (Currently optimized for C++)
 set tabstop=2     " sets tab size to 2
 set autoindent    " keeps autoindention while writing
+set expandtab     " converts your tabs to spaces for easy formatting
 
 " These get rid of various bells and whistles
 set noerrorbells
